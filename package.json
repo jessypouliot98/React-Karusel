@@ -1,7 +1,7 @@
 {
 	"name": "react-karusel",
-	"version": "1.0.0",
-	"description": "Clean way of generating forms and inputs with React",
+	"version": "1.0.1",
+	"description": "",
 	"main": "build/ReactKarusel.js",
 	"scripts": {
 		"dev": "webpack --watch",
