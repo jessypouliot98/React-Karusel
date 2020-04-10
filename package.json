@@ -1,6 +1,6 @@
 {
 	"name": "react-karusel",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "",
 	"main": "build/ReactKarusel.js",
 	"scripts": {
@@ -13,7 +13,7 @@
 	"dependencies": {
 		"core-js": "^3.6.4",
 		"eslint": "^6.8.0",
-		"karusel": "^1.0.0",
+		"karusel": "^1.0.2",
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
 		"webpack": "^4.42.1"
