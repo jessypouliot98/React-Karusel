@@ -1,6 +1,6 @@
 # Features
 
-React-Karusel is a React component for Karusel, the next generation lightweight dependancy free Carousel for all for all of your needs. Did I also mention it's super customizable ? [Learn more here]('https://www.npmjs.com/package/karusel')
+React-Karusel is a React component for Karusel, the next generation lightweight dependancy free Carousel for all for all of your needs. Did I also mention it's super customizable ? [Learn more here](https://www.npmjs.com/package/karusel)
 
 # Installation
 
