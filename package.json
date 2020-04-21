@@ -1,6 +1,6 @@
 {
 	"name": "react-karusel",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "",
 	"main": "build/ReactKarusel.js",
 	"scripts": {
@@ -50,5 +50,9 @@
 		"animation"
 	],
 	"author": "Jessyp98",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jessypouliot98/React-Karusel.git"
+	},
 	"license": "ISC"
 }
